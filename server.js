@@ -17,7 +17,7 @@ const SequelizeStore = require('connect-session-sequelize')(session.Store);
 
 //set up cookies, make session expire in 10 min
 const sess = {
-  secret: 'super super secret',
+  secret: 'super secret secret',
   cookie: {
         expires: 10 * 60 * 1000
   },
