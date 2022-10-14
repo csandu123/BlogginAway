@@ -1,6 +1,6 @@
 # BlogginAway
 
-Welcome to my blogging website using a modelview controller. This application was created with the scope of being able to create an account, 
+Welcome to my blogging website using a model view controller. This application was created with the scope of being able to create an account, 
 log in and post whatever is on your mind. Some features are still under construction at the moment. 
 
 ## Usage
