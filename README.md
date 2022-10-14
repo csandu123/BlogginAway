@@ -7,5 +7,5 @@ log in and post whatever is on your mind. Some features are still under construc
 To invoke the application on your local device, use "npm run start".
 Otherwise, click on the following link to view the application on heroku: https://bloggin-away.herokuapp.com/
 
-##Questions and Collaborations
+## Questions and Collaborations
 If you have any questions or would like to contact me to collaborate on this project or another, contact me at ces.pnw@gmail.com
